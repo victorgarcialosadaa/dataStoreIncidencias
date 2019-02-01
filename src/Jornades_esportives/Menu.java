@@ -194,4 +194,9 @@ public class Menu {
         return opcion_deporte;
     }
 
+    
+    public static void cambioCristian(){
+                System.out.println("--------------------------");
+
+    }
 }
